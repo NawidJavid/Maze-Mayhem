@@ -4,6 +4,9 @@
   <img src="resources/coverart.png" alt="Maze Mayhem cover art" width="520">
 </p>
 
+[![Gameplay Trailer](https://img.youtube.com/vi/rXbsMpnOnzw/hqdefault.jpg)](https://www.youtube.com/watch?v=rXbsMpnOnzw)
+
+
 Maze Mayhem is a 2D top-down multiplayer shooter set in a maze. Up to five players connect over a local network and fight in short, high-pressure rounds with bouncing projectiles, one-shot kills and limited vision.
 
 The game is written in **C** using **SDL2** and a custom TCP networking layer, and was developed as a university project to practise game programming, networking and systems-level C.
